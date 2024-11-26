@@ -1,0 +1,8 @@
+[package]
+name = "unit_converter"
+version = "0.1.0"
+authors = ["Vladislav <vladislavrustdev@gmail.com>"]
+description = "Crate for unit convertation"
+license = "MIT"
+
+[dependencies]
